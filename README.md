@@ -1,6 +1,6 @@
 ## Welcome
 
-Web3 developer and security researcher specializing in Rust, Solidity, and WASM for secure blockchain solutions.
+Web3 security researcher and developer specializing in Rust, Solidity, and WASM for secure blockchain solutions.
 
 ## What I Do
 
