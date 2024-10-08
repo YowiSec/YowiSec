@@ -10,11 +10,11 @@ Web3 developer and security researcher specializing in Rust, Solidity, and WASM 
 
 ## Pinned Projects
 
-### WalletAudit
-A tool for analyzing wallet health and security, focused on Ethereum and Ethereum L2. Built using Solidity and Rust to provide in-depth wallet analysis and help users assess risk factors.
+### HoneySnare
+A smart contract honeypot designed to attract malicious bot interactions on Ethereum, Polygon, and other Layer 2 networks. Includes a Rust backend that monitors, logs, and archives bot behavior for further analysis. This project serves as a valuable tool for testing vulnerabilities and studying malicious behavior in real time.
 
-### Price Aggregator (Solana-Based)
-A decentralized application written in Rust, aggregating prices from multiple trusted oracles on the Solana network. This dApp provides users with the best rate for token swaps, emphasizing transparency and efficiency.
+### WalletAudit
+A tool for analyzing wallet health and security, focused on Ethereum and Ethereum Layer 2. Built using Solidity and Rust to provide in-depth wallet analysis and help users assess risk factors.
 
 ### Other Notable Repositories
 - **Web3 Security Tools**: A collection of tools and examples for identifying vulnerabilities in smart contracts.
