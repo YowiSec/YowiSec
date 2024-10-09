@@ -11,7 +11,7 @@ Web3 security researcher and developer specializing in Rust, Solidity, and WASM 
 ## Pinned Projects
 
 ### HoneySnare
-A smart contract honeypot designed to attract malicious bot interactions on Ethereum, Polygon, and other Layer 2 networks. Includes a Rust backend that monitors, logs, and archives bot behavior for further analysis. This project serves as a valuable tool for testing vulnerabilities and studying malicious behavior in real time.
+A smart contract honeypot designed to attract malicious bot interactions on Ethereum, Polygon, and other Layer 2 networks. Includes a Rust backend that monitors, logs, and archives bot behavior for further analysis. This project serves as a valuable tool for testing vulnerabilities and studying malicious behavior in real time. Currently deployed on Arbitrum.
 
 ### WalletAudit
 A tool for analyzing wallet health and security, focused on Ethereum and Ethereum Layer 2. Built using Solidity and Rust to provide in-depth wallet analysis and help users assess risk factors.
