@@ -16,9 +16,6 @@ A smart contract honeypot designed to attract malicious bot interactions on Ethe
 ### WalletAudit
 A tool for analyzing wallet health and security, focused on Ethereum and Ethereum Layer 2. Built using Solidity and Rust to provide in-depth wallet analysis and help users assess risk factors.
 
-### Other Notable Repositories
-- **Web3 Security Tools**: A collection of tools and examples for identifying vulnerabilities in smart contracts.
-
 ## Tools & Technologies
 
 - **Languages**: Rust, Solidity
